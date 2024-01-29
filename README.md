@@ -1,6 +1,6 @@
-17yo from Croatia 🇭🇷
+18yo from Croatia 🇭🇷
 
-Beginner in python, still learning!
+Beginner in python, c and c++, still learning.
 
 Love hacking and programming in general
 
